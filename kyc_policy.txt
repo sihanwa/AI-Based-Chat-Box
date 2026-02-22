@@ -1,0 +1,38 @@
+KYC POLICY - NIGERIA FINTECH
+
+Tier 1 Wallets
+
+Tier 1 wallets are low-value accounts designed for financial inclusion.
+For Tier 1 wallets, customers must provide:
+- Full name
+- Mobile phone number
+- One government-issued identification number (for example NIN or BVN)
+- Basic address information (state and city)
+
+Transaction and balance limits for Tier 1 wallets are:
+- Maximum single transaction: 50,000 NGN
+- Daily total limit: 300,000 NGN
+- Maximum balance: 300,000 NGN
+
+Tier 2 Wallets
+
+Tier 2 wallets are medium-value accounts used for regular salary and business payments.
+For Tier 2 wallets, customers must provide:
+- Full name and date of birth
+- Valid government-issued photo ID (for example national ID card, international passport, or driver's licence)
+- Bank Verification Number (BVN)
+- Proof of address not older than 3 months (for example utility bill or bank statement)
+
+Transaction and balance limits for Tier 2 wallets are:
+- Maximum single transaction: 200,000 NGN
+- Daily total limit: 1,000,000 NGN
+- Maximum balance: 1,000,000 NGN
+
+Tier 3 Wallets
+
+Tier 3 wallets are full KYC accounts.
+In addition to Tier 2 requirements, customers must complete enhanced due diligence checks where required.
+Enhanced due diligence may include:
+- Source of funds declaration
+- Additional identity verification
+- Manual review by the compliance team

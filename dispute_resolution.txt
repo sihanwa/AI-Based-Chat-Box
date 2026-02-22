@@ -1,0 +1,31 @@
+DISPUTE RESOLUTION AND CHARGEBACK POLICY
+
+General principles
+
+The fintech aims to resolve all customer disputes quickly and fairly.
+Customers can raise a dispute through the mobile app, call centre, or email support.
+All disputes must be acknowledged within 24 business hours.
+
+Failed or reversed transfers
+
+For failed transfers where the customer account was debited but the beneficiary was not credited, the following rules apply:
+- The operations team must check the transaction status on all partner systems.
+- If funds are confirmed as not received by the beneficiary bank, the customer must be refunded.
+- For domestic NIP transfers, refunds should be processed within 24 to 72 business hours.
+
+Chargebacks on card transactions
+
+Customers may raise chargebacks for card transactions they do not recognise or that are disputed.
+Key rules include:
+- The customer must submit the dispute within 60 days of the transaction date.
+- The dispute team must obtain supporting documents such as transaction alerts and receipts.
+- Temporary reversal may be applied while the investigation is ongoing, in line with scheme rules.
+
+Communication with customers
+
+The support team must provide clear updates to customers at key stages:
+- When the dispute is logged
+- When investigation starts
+- When a final decision is made
+
+All communication should be simple, respectful, and documented in the case management system.

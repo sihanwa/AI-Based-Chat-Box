@@ -1,0 +1,32 @@
+PRODUCT FAQS - WALLETS AND CARDS
+
+Funding the wallet
+
+Customers can fund their wallet using:
+- Bank transfer
+- Card payment
+- Cash deposit at partner agents
+
+Transfers and payments
+
+Customers can send money from their wallet to:
+- Other wallets on the platform
+- Any Nigerian bank account
+- Selected billers such as airtime, data, and utilities
+
+Card features
+
+The fintech may issue virtual or physical cards linked to the wallet.
+Key features include:
+- Online and POS payments
+- ATM withdrawals where enabled
+- Instant card freeze and unfreeze in the app
+
+Fees
+
+Some services may attract fees, for example:
+- Card issuance fee
+- ATM withdrawal fee
+- Bill payment convenience fee
+
+All fees must be clearly shown to the customer before a transaction is confirmed.
